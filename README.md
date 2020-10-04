@@ -1,2 +1,2 @@
 # Sprint2
-This is teh repository for sprint 2 code
+This is the repository for sprint 2 code
